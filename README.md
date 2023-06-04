@@ -1,4 +1,4 @@
-# GenomeArchitectureAndFunction2023
+# "What we see in Hi-C?" for Genome Architecture And Function 2023
 
 Welcome to "What we see in Hi-C?" workshop at Genome Architecture and Function 2023 Summer School!
 
@@ -10,3 +10,5 @@ This is a two-part intro to Hi-C data analysis:
 Disclaimer: although we formally refer to whole-genome chromosome capture data as Hi-C, we will mostly work with Micro-C here. 
 
 To start, follow the instructions in [What_we_see_in_Hi-C_4Jun2023 notebook](https://github.com/mirnylab/GenomeArchitectureAndFunction2023/blob/main/What_we_see_in_Hi-C_4Jun2023.ipynb). 
+
+Author: Aleksandra Galitsyna and Open2C
